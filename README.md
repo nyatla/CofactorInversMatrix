@@ -6,6 +6,6 @@
 
 計算オーダーは 16*2.3^N程度になります。
 
-*コードジェネレータ
+## コードジェネレータ
 
 ソースコードはjp.nyatla.cimat.matgenerator.v2.MatrixCodeGen12.javaで生成できます。
