@@ -14,7 +14,8 @@ import java.util.Map;
 
 
 /**
- * MatTableのsetZeroとsetNameが使えるバージョン
+ * MatTableのsetZeroとsetNameが使えるバージョン。
+ * v2よりも遅い。
  *
  */
 public class MatrixCodeGen13{
